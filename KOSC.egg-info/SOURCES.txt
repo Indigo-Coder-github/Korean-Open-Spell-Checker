@@ -1,0 +1,6 @@
+setup.py
+KOSC.egg-info/PKG-INFO
+KOSC.egg-info/SOURCES.txt
+KOSC.egg-info/dependency_links.txt
+KOSC.egg-info/top_level.txt
+core/__init__.py

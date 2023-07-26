@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: KOSC
+Version: 0.0.1
+Summary: This is open source project of Korean spell checker made by Python
+Home-page: https://github.com/Indigo-Coder-github/Korean-Open-Spell-Checker
+Author: Indigo-Coder
+Author-email: hjs40111@gmail.com
+Requires-Python: >=3.6
